@@ -1,0 +1,28 @@
+# Core dependencies for document processing
+Pillow==10.1.0
+PyMuPDF==1.23.8
+opencv-python==4.8.1.78
+numpy==1.26.2
+
+# OCR
+easyocr==1.7.2
+torch==2.2.2
+torchvision==0.17.2
+
+# Jupyter notebooks and visualization
+jupyter==1.0.0
+notebook==7.0.6
+ipykernel==6.27.1
+matplotlib==3.8.2
+
+# Data validation and processing (will add later)
+# pydantic==2.5.0
+
+# Machine Learning for LayoutLM training
+transformers==4.36.2
+datasets==2.16.1
+scikit-learn==1.3.2
+tqdm==4.66.1
+tensorboard==2.15.1
+accelerate==0.25.0
+
